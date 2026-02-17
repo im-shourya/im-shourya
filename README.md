@@ -2,7 +2,7 @@
 
 ### CSE Student | Full Stack Developer | AI Enthusiast
 
-I’m an 18-year-old developer from Ranchi, currently building in Chennai. I love turning complex problems into clean code, whether it's web development, AI agents, or hackathon projects.
+I love turning complex problems into clean code, whether it's web development, AI agents, or hackathon projects.
 
 ---
 
@@ -38,6 +38,5 @@ I’m an 18-year-old developer from Ranchi, currently building in Chennai. I lov
 
 *  **Portfolio:** [shouryaparashar.vercel.app](https://shouryaparashar.vercel.app/)
 *  **My Team:** [team-hypothesis-web.vercel.app](https://team-hypothesis-web.vercel.app/)
-*  **Location:** Ranchi, India 🇮🇳
 
 ---
