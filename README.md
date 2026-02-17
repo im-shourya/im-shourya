@@ -36,8 +36,8 @@ I’m an 18-year-old developer from Ranchi, currently building in Chennai. I lov
 
 ### **Connect with Me**
 
-*  **Portfolio:** [shouryaparashar.vercel.app]()
-*  **My Team:** [team-hypothesis-web.vercel.app]()
+*  **Portfolio:** [shouryaparashar.vercel.app](https://shouryaparashar.vercel.app/)
+*  **My Team:** [team-hypothesis-web.vercel.app](https://team-hypothesis-web.vercel.app/)
 *  **Location:** Ranchi, India 🇮🇳
 
 ---
