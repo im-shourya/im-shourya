@@ -15,7 +15,7 @@ I’m an 18-year-old developer from Ranchi, currently building in Chennai. I lov
 
 ---
 
-### 🛠️ **Tech Stack**
+### **Tech Stack**
 
 **Languages:**
 
@@ -25,7 +25,7 @@ I’m an 18-year-old developer from Ranchi, currently building in Chennai. I lov
 
 ---
 
-### 📊 **GitHub Stats**
+### **GitHub Stats**
 
 <div align="center">
 <img src="[https://github-readme-stats.vercel.app/api?username=im-shourya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117]()" alt="Shourya's GitHub Stats" />
@@ -34,10 +34,10 @@ I’m an 18-year-old developer from Ranchi, currently building in Chennai. I lov
 
 ---
 
-### 🌐 **Connect with Me**
+### **Connect with Me**
 
-* 💻 **Portfolio:** [shouryaparashar.vercel.app]()
-* 💎 **My Team:** [team-hypothesis-web.vercel.app]()
-* 📍 **Location:** Ranchi, India 🇮🇳
+*  **Portfolio:** [shouryaparashar.vercel.app]()
+*  **My Team:** [team-hypothesis-web.vercel.app]()
+*  **Location:** Ranchi, India 🇮🇳
 
 ---
