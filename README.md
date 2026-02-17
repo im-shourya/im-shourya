@@ -10,8 +10,8 @@ I’m an 18-year-old developer from Ranchi, currently building in Chennai. I lov
 
 | Project | Role | Description |
 | --- | --- | --- |
-| ** Team Hypothesis** | **Founder** | Leading a team of developers to crush hackathons and build cool stuff. |
-| ** HackeRank Campus Crew** | **Technical** | Contributing to the HackerRank Club of Coders community. |
+| **Team Hypothesis** | **Founder** | Leading a team of developers to crush hackathons and build cool stuff. |
+| **HackeRank Campus Crew** | **Technical** | Contributing to the HackerRank Club of Coders community. |
 
 ---
 
