@@ -1,6 +1,6 @@
 # Hi there, I'm Shourya! 👋
 
-### CSE Student @ SRMIST | Full Stack Developer | AI Enthusiast
+### CSE Student | Full Stack Developer | AI Enthusiast
 
 I’m an 18-year-old developer from Ranchi, currently building in Chennai. I love turning complex problems into clean code, whether it's web development, AI agents, or hackathon projects.
 
