@@ -12,10 +12,6 @@
   <a href="https://linkedin.com/in/im-shourya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-im--shourya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:parasharshourya07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-parasharshourya07-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
