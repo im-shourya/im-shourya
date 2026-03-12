@@ -57,6 +57,8 @@
 
 ---
 
+https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&theme=tokyonight&hide_border=true&background=0D1117
+
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
 </p>
