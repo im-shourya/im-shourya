@@ -1,6 +1,14 @@
-<h1 align="center">Hi there, I'm Shourya! 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=10&section=header" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shourya+%F0%9F%91%8B;Full-Stack+Developer;Always+building+something+new" alt="Typing SVG" />
+</h1>
+
+
 <p align="center">
-  <b>CSE Student @ SRMIST &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; AI Enthusiast</b><br/>
+  <b>CSE Student &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; AI Enthusiast</b><br/>
   I love turning complex problems into clean code — whether it's web development, AI agents, or hackathon projects.
 </p>
 <p align="center">
@@ -19,8 +27,9 @@
 | Project | Role | Description |
 | --- | --- | --- |
 | **Nexus Athlete App** | Builder | Full-stack platform for athletes to track 10+ performance metrics — React, Node.js, MongoDB |
-| **Google Developer Groups on Campus SRM** | Frontend Developer | Building and contributing within Google's campus developer ecosystem |
-| **HackerRank Campus Crew @ SRMIST** | Technical Member | Co-designed problems for Overclocked — competitive coding contest with 500+ participants |
+| **RESQ** | Builder | India's real-time AI animal emergency coordination grid — AI triage, smart dispatch, vet teleconsult |
+| **Google Developer Groups on Campus** | Frontend Developer | Building and contributing within Google's campus developer ecosystem |
+| **HackerRank Campus Crew** | Technical Member | Co-designed problems for Overclocked — competitive coding contest with 500+ participants |
 
 ---
 
