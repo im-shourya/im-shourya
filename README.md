@@ -105,6 +105,26 @@ Co-designed competitive programming problems for Overclocked.
 
 <br/>
 
+### Achievements
+ 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=im-shourya&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+</div>
+ 
+<br/>
+ 
+---
+ 
+### Contribution Snake
+ 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-shourya/im-shourya/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-shourya/im-shourya/output/github-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/im-shourya/im-shourya/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+  
 ---
 
 <div align="center">
