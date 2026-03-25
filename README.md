@@ -104,14 +104,6 @@ Co-designed competitive programming problems for Overclocked.
 </div>
 
 <br/>
-
-### Achievements
- 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=im-shourya&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</div>
- 
-<br/>
  
 ---
  
