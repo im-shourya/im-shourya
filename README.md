@@ -109,10 +109,4 @@ Co-designed competitive programming problems for Overclocked.
 
 <div align="center">
   <sub><i>"First, solve the problem. Then, write the code."</i></sub>
-  <br/><br/>
-  <sub>Built with intention &nbsp;·&nbsp; Deployed with purpose &nbsp;·&nbsp; Always iterating</sub>
-</div>
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0f&height=100&section=footer" />
 </div>
