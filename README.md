@@ -18,8 +18,8 @@
 | Project | Role | Description |
 | --- | --- | --- |
 | **Nexus Athlete App** | **Builder** | Full-stack platform for athletes to track 10+ performance metrics — React, Node.js, MongoDB |
-| **Team Hypothesis** | **Founder** | Leading a team of developers to crush hackathons and build cool stuff |
 | **HackerRank Campus Crew** | **Technical Member** | Contributing to the HRCC community @ SRMIST |
+| **Google Developer Group** | **Frontend Developer** | On Campus SRMIST |
 
 ---
 
