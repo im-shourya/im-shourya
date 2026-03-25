@@ -15,15 +15,18 @@
 ---
 
 ### What I'm Working On
+
 | Project | Role | Description |
 | --- | --- | --- |
-| **Nexus Athlete App** | **Builder** | Full-stack platform for athletes to track 10+ performance metrics — React, Node.js, MongoDB |
-| **HackerRank Campus Crew** | **Technical Member** | Contributing to the HRCC community @ SRMIST |
-| **Google Developer Group** | **Frontend Developer** | On Campus SRMIST |
+| **Nexus Athlete App** | Builder | Full-stack platform for athletes to track 10+ performance metrics — React, Node.js, MongoDB |
+| **Team Hypothesis** | Founder & Lead | Developer team focused on hackathons and shipping real-world products |
+| **Google Developer Groups on Campus SRM** | Frontend Developer | Building and contributing within Google's campus developer ecosystem |
+| **HackerRank Campus Crew @ SRMIST** | Technical Member | Co-designed problems for Overclocked — competitive coding contest with 500+ participants |
 
 ---
 
 ### Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
   <br/>
@@ -35,18 +38,21 @@
 ---
 
 ### GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=im-shourya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shourya's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&theme=tokyonight&hide_border=true&background=0D1117](https://github-readme-stats.vercel.app/api?username=im-shourya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=0)" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### Featured Projects
+
 | Project | Stack | Links |
 | --- | --- | --- |
+| **Nexus Athlete App** | React, Node.js, MongoDB | In Progress |
 | **KanbanFlow** | React, TypeScript, Tailwind, Vite | [Live](https://kanbanflow.shouryaparashar.in) · [GitHub](https://github.com/im-shourya/KanbanFlow) |
 | **Task Management API** | Node.js, Express, MongoDB | [GitHub](https://github.com/im-shourya/Task-Management-CRUD-API-) |
 | **Team Hypothesis Website** | TypeScript, Vercel | [Live](https://team-hypothesis-web.vercel.app) |
