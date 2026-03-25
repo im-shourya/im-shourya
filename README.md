@@ -23,13 +23,44 @@
 ---
 
 ### What I'm Working On
+<br/>
 
-| Project | Role | Description |
-| --- | --- | --- |
-| **Nexus Athlete App** | Builder | Full-stack platform for athletes to track 10+ performance metrics — React, Node.js, MongoDB |
-| **RESQ** | Builder | India's real-time AI animal emergency coordination grid — AI triage, smart dispatch, vet teleconsult |
-| **Google Developer Groups on Campus** | Frontend Developer | Building and contributing within Google's campus developer ecosystem |
-| **HackerRank Campus Crew** | Technical Member | Co-designed problems for Overclocked — competitive coding contest with 500+ participants |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Nexus Athlete App**
+
+Full-stack performance intelligence platform. Athletes track 10+ metrics in real time with data visualization and trend analysis.
+
+*Status: In Active Development*
+</td>
+<td width="50%" valign="top">
+
+**RESQ**
+
+India's AI-powered animal emergency one unified coordination grid system.
+
+*Status: Building MVP*
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Google Developer Groups on Campus**
+
+Serving as Frontend Developer within Google's campus developer and growing the local dev community.
+</td>
+<td width="50%" valign="top">
+
+**HackerRank Campus Crew**
+
+Co-designed competitive programming problems for Overclocked.
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
@@ -58,16 +89,30 @@
 
 ### Featured Projects
 
-| Project | Stack | Links |
-| --- | --- | --- |
-| **Nexus Athlete App** | React, Node.js, MongoDB | In Progress |
-| **KanbanFlow** | React, TypeScript, Tailwind, Vite | [Live](https://kanbanflow.shouryaparashar.in) · [GitHub](https://github.com/im-shourya/KanbanFlow) |
-| **Task Management API** | Node.js, Express, MongoDB | [GitHub](https://github.com/im-shourya/Task-Management-CRUD-API-) |
-| **Team Hypothesis Website** | TypeScript, Vercel | [Live](https://team-hypothesis-web.vercel.app) |
-| **Personal Portfolio** | TypeScript, Vercel | [Live](https://shouryaparashar.in) |
+<br/>
+
+<div align="center">
+
+| Project | Description | Stack | Links |
+|:---|:---|:---|:---:|
+| **Nexus Athlete App** | Performance tracking & analytics platform for athletes | React · Node.js · MongoDB | In Progress |
+| **KanbanFlow** | Drag-and-drop task management with real-time state sync | React · TypeScript · Tailwind · Vite | [Live](https://kanbanflow.shouryaparashar.in) · [Code](https://github.com/im-shourya/KanbanFlow) |
+| **Task Management API** | RESTful CRUD API with authentication & full test coverage | Node.js · Express · MongoDB | [Code](https://github.com/im-shourya/Task-Management-CRUD-API-) |
+| **Team Hypothesis** | Collaborative team project showcase website | TypeScript · Vercel | [Live](https://team-hypothesis-web.vercel.app) |
+| **Personal Portfolio** | Developer portfolio with project showcase | TypeScript · Vercel | [Live](https://shouryaparashar.in) |
+
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
+<div align="center">
+  <sub><i>"First, solve the problem. Then, write the code."</i></sub>
+  <br/><br/>
+  <sub>Built with intention &nbsp;·&nbsp; Deployed with purpose &nbsp;·&nbsp; Always iterating</sub>
+</div>
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0f&height=100&section=footer" />
+</div>
