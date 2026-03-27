@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=10&section=header" />
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shourya+%F0%9F%91%8B;Full-Stack+Developer;Always+building+something+new" alt="Typing SVG" />
 </h1>
