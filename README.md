@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=600&pause=99999&color=00D4FF&center=true&vCenter=true&width=750&height=14&lines=STARK+INDUSTRIES+SECURE+SYSTEM+%E2%80%94+INITIALIZING+..."/>
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=600&pause=99999&color=22c55e&center=true&vCenter=true&width=750&height=14&lines=%E2%9C%93+BIOMETRIC+SCAN+COMPLETE+%E2%80%94+IDENTITY+CONFIRMED+%E2%80%94+CLEARANCE%3A+ALPHA"/>
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=600&pause=99999&color=f5c542&center=true&vCenter=true&width=750&height=14&lines=%E2%9C%93+MARK+VII+PARAMETERS+LOADED+%E2%80%94+ARC+REACTOR+OUTPUT%3A+3+GJ+%E2%80%94+ALL+SYSTEMS+GO"/>
