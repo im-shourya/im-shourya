@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
+      .border {
+        fill: #000814;
+        stroke: #00d4ff;
+        stroke-width: 1.5;
+        rx: 4;
+      }
+      .title {
+        font-family: 'Orbitron', sans-serif;
+        font-size: 16px;
+        fill: #00d4ff;
+        font-weight: 700;
+        letter-spacing: 2px;
+      }
+      .subtitle {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 10px;
+        fill: #94a3b8;
+        letter-spacing: 1px;
+      }
+      .grid { pointer-events: none; opacity: 0.1; }
+    </style>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#00d4ff" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  
+  <rect x="2" y="2" width="246" height="56" class="border" />
+  <rect x="2" y="2" width="246" height="56" fill="url(#grid)" class="grid" />
+  
+  <path d="M 2 12 L 2 2 L 12 2" fill="none" stroke="#00d4ff" stroke-width="3" filter="url(#glow)" />
+  <path d="M 248 48 L 248 58 L 238 58" fill="none" stroke="#00d4ff" stroke-width="3" filter="url(#glow)" />
+
+  <g transform="translate(15, 18)" fill="#00d4ff" filter="url(#glow)">
+    <path d="M12 2L22 7.8V19.4L12 25.2L2 19.4V7.8L12 2ZM12 4.3L4 8.9V18.2L12 22.8L20 18.2V8.9L12 4.3Z"/>
+    <circle cx="12" cy="13.6" r="3" />
+  </g>
+  
+  <text x="55" y="28" class="title" filter="url(#glow)">PORTFOLIO</text>
+  <text x="55" y="44" class="subtitle">⬡ ALPHA PROTOCOL</text>
+</svg>

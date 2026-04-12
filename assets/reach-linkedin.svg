@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
+      .border { fill: #000814; stroke: #f5c542; stroke-width: 1.5; rx: 4; }
+      .title { font-family: 'Orbitron', sans-serif; font-size: 16px; fill: #f5c542; font-weight: 700; letter-spacing: 2px; }
+      .subtitle { font-family: 'Share Tech Mono', monospace; font-size: 10px; fill: #94a3b8; letter-spacing: 1px; }
+      .grid { pointer-events: none; opacity: 0.1; }
+    </style>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#f5c542" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  
+  <rect x="2" y="2" width="246" height="56" class="border" />
+  <rect x="2" y="2" width="246" height="56" fill="url(#grid)" class="grid" />
+  
+  <path d="M 2 12 L 2 2 L 12 2" fill="none" stroke="#f5c542" stroke-width="3" filter="url(#glow)" />
+  <path d="M 248 48 L 248 58 L 238 58" fill="none" stroke="#f5c542" stroke-width="3" filter="url(#glow)" />
+
+  <g transform="translate(15, 18)" fill="#f5c542" filter="url(#glow)">
+    <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" transform="scale(1.1)"/>
+  </g>
+  
+  <text x="55" y="28" class="title" filter="url(#glow)">LINKEDIN</text>
+  <text x="55" y="44" class="subtitle">⬡ SECURE CONNECTION</text>
+</svg>
