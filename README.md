@@ -10,19 +10,17 @@
 
 ### How to reach me
 
-<h3 align="center">📬 How to reach me</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/im-shourya">
-    <img src="https://img.shields.io/badge/LinkedIn-im--shourya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="./assets/reach-linkedin.svg" width="260" alt="LinkedIn" />
   </a>
-  <br/><br/>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/im-shourya">
-    <img src="https://img.shields.io/badge/GitHub-im--shourya-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="./assets/reach-github.svg" width="260" alt="GitHub" />
   </a>
-  <br/><br/>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://shouryaparashar.in">
-    <img src="https://img.shields.io/badge/Portfolio-shouryaparashar.in-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="./assets/reach-portfolio.svg" width="260" alt="Portfolio" />
   </a>
 </p>
 
@@ -48,7 +46,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### Statistics
 
 <div align="center">
