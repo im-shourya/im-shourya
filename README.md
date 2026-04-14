@@ -59,6 +59,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### Statistics
+
+<div align="center">
+  <a href="https://github.com/im-shourya">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-shourya&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=im-shourya&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=im-shourya&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=im-shourya&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-shourya&theme=2077" height="180em" />
+  </a>
+  <br><br>
+
+![](https://github-readme-stats.vercel.app/api?username=im-shourya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### Activity Graph
 
 <div align="center">
