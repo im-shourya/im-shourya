@@ -11,7 +11,7 @@
       <img src="https://lh3.googleusercontent.com/aida/AP1WRLtphV0jvuAjm3k3DC50JYQ0xWVLSfEgFtJV7gAlLmxK7vYcVoSSVF8Wno4ydzzaT5dZcZbEUe_hjaEZlCa9ypVsllTKpPtHGVHDQdzcZzEoYErolgnyYELcMlgt1Is_8xb_s79lLgYJApSWiI0ndLgUn43uK8YqPQzed4qxZjiGZZepgYT4Wb7vUADBezrJeB4jDnXxwdcapXb7bY5THT7Vqon4VutSd2QPYhlR7RVj63mPScqVh6Zc4hQ" width="180" alt="Pixel Avatar" />
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=0f172a&background=ffffff00&center=false&vCenter=true&width=600&lines=HI%2C+I+AM+Shourya+Parashar;SYSTEM+ARCHITECT;FULL-STACK+EXPLORER" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=0f172a&background=FFFFFF&center=false&vCenter=true&width=600&lines=HI%2C+I+AM+Shourya+Parashar;SYSTEM+ARCHITECT;FULL-STACK+EXPLORER" alt="Typing SVG" />
       <br><br>
       <code>
         &gt; INITIATING SEQUENCE...<br>
