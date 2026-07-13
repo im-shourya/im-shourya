@@ -41,20 +41,38 @@ user@system:~$ _
 <table width="100%" align="center">
   <tr>
     <td align="center" width="25%">
-      <b>JAVASCRIPT</b><br>
-      <code>[■■■■■■■■■□]</code>
+      <img src="https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=16a34a&labelColor=f1f5f9" alt="C++" />
+      <br><code>[■■■■■■■■■□]</code>
     </td>
     <td align="center" width="25%">
-      <b>RUST</b><br>
-      <code>[■■■■■■□□□□]</code>
+      <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=16a34a&labelColor=f1f5f9" alt="Python" />
+      <br><code>[■■■■■■■■□□]</code>
     </td>
     <td align="center" width="25%">
-      <b>PYTHON</b><br>
-      <code>[■■■■■■■■□□]</code>
+      <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=java&logoColor=16a34a&labelColor=f1f5f9" alt="Java" />
+      <br><code>[■■■■■■■■□□]</code>
     </td>
     <td align="center" width="25%">
-      <b>REACT</b><br>
-      <code>[■■■■■■■■□□]</code>
+      <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=16a34a&labelColor=f1f5f9" alt="TypeScript" />
+      <br><code>[■■■■■■■■■□]</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=16a34a&labelColor=f1f5f9" alt="React" />
+      <br><code>[■■■■■■■■■□]</code>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=16a34a&labelColor=f1f5f9" alt="Next.js" />
+      <br><code>[■■■■■■■■□□]</code>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=16a34a&labelColor=f1f5f9" alt="Node.js" />
+      <br><code>[■■■■■■■■□□]</code>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=16a34a&labelColor=f1f5f9" alt="MongoDB" />
+      <br><code>[■■■■■■■□□□]</code>
     </td>
   </tr>
 </table>
@@ -88,17 +106,28 @@ user@system:~$ _
 <br/>
 
 <!-- FOOTER / CONNECT -->
-<table width="100%">
-  <tr>
-    <td align="left">
-      <code>© 198X DEV_OS. ALL RIGHTS RESERVED.</code>
-    </td>
-    <td align="right">
-      <b>CONNECT:</b> &nbsp;
-      <a href="https://linkedin.com/in/im-shourya">LINKEDIN</a> &nbsp;|&nbsp;
-      <a href="https://x.com/">TWITTER</a> &nbsp;|&nbsp;
-      <a href="https://shouryaparashar.in">PORTFOLIO</a> &nbsp;|&nbsp;
-      <a href="mailto:your-email@example.com">EMAIL</a>
-    </td>
-  </tr>
-</table>
+### `> CONNECT.SH`
+
+<div align="center">
+  <a href="https://linkedin.com/in/im-shourya">
+    <img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=16a34a&labelColor=f1f5f9" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/">
+    <img src="https://img.shields.io/badge/TWITTER-ffffff?style=for-the-badge&logo=x&logoColor=16a34a&labelColor=f1f5f9" alt="X/Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://shouryaparashar.in">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=for-the-badge&logo=vercel&logoColor=16a34a&labelColor=f1f5f9" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge&logo=minutemailer&logoColor=16a34a&labelColor=f1f5f9" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <code>© 198X DEV_OS. ALL RIGHTS RESERVED.</code>
+</div>
