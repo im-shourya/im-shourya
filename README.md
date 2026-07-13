@@ -1,9 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=2ae500&background=0c160900&center=true&vCenter=true&width=800&lines=%3E+HI%2C+I+AM+SHOURYA+PARASHAR+_;%3E+INITIATING+SEQUENCE...;%3E+SYSTEM+ARCHITECT+ONLINE.;%3E+READY+TO+BUILD+DIGITAL+WORLDS." alt="Typing SVG" />
+  <b>DEV_TERMINAL_V1.1</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>PROFILE</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>TECH</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>STATS</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>PROJECTS</b>
 </div>
+<hr>
+<br>
+
+<!-- HEADER / AVATAR -->
+<table width="100%" align="center">
+  <tr>
+    <td width="220" align="center">
+      <img src="https://lh3.googleusercontent.com/aida/AP1WRLtphV0jvuAjm3k3DC50JYQ0xWVLSfEgFtJV7gAlLmxK7vYcVoSSVF8Wno4ydzzaT5dZcZbEUe_hjaEZlCa9ypVsllTKpPtHGVHDQdzcZzEoYErolgnyYELcMlgt1Is_8xb_s79lLgYJApSWiI0ndLgUn43uK8YqPQzed4qxZjiGZZepgYT4Wb7vUADBezrJeB4jDnXxwdcapXb7bY5THT7Vqon4VutSd2QPYhlR7RVj63mPScqVh6Zc4hQ" width="180" alt="Pixel Avatar" />
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=0f172a&background=ffffff00&center=false&vCenter=true&width=600&lines=HI%2C+I+AM+Shourya+Parashar;SYSTEM+ARCHITECT;FULL-STACK+EXPLORER" alt="Typing SVG" />
+      <br><br>
+      <code>
+        &gt; INITIATING SEQUENCE...<br>
+        &gt; SYSTEM ARCHITECT ONLINE.<br>
+        &gt; READY TO BUILD DIGITAL WORLDS.
+      </code>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
+<!-- ABOUT SECTION -->
 ### `> USER@SYSTEM:~/ABOUT`
 
 ```text
@@ -14,95 +35,70 @@ user@system:~$ _
 
 <br/>
 
+<!-- TECH STACK -->
 ### `> TECH_STACK.CFG`
 
 <table width="100%" align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/C%2B%2B-0c1609?style=for-the-badge&logo=c%2B%2B&logoColor=2ae500&labelColor=222d1e" alt="C++" />
-      <br><code>[■■■■■■■■■□] 90%</code>
+      <b>JAVASCRIPT</b><br>
+      <code>[■■■■■■■■■□]</code>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Python-0c1609?style=for-the-badge&logo=python&logoColor=2ae500&labelColor=222d1e" alt="Python" />
-      <br><code>[■■■■■■■■□□] 80%</code>
+      <b>RUST</b><br>
+      <code>[■■■■■■□□□□]</code>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Java-0c1609?style=for-the-badge&logo=java&logoColor=2ae500&labelColor=222d1e" alt="Java" />
-      <br><code>[■■■■■■■■□□] 80%</code>
+      <b>PYTHON</b><br>
+      <code>[■■■■■■■■□□]</code>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/TypeScript-0c1609?style=for-the-badge&logo=typescript&logoColor=2ae500&labelColor=222d1e" alt="TypeScript" />
-      <br><code>[■■■■■■■■■□] 90%</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-0c1609?style=for-the-badge&logo=react&logoColor=2ae500&labelColor=222d1e" alt="React" />
-      <br><code>[■■■■■■■■■□] 90%</code>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Next.js-0c1609?style=for-the-badge&logo=next.js&logoColor=2ae500&labelColor=222d1e" alt="Next.js" />
-      <br><code>[■■■■■■■■□□] 80%</code>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-0c1609?style=for-the-badge&logo=node.js&logoColor=2ae500&labelColor=222d1e" alt="Node.js" />
-      <br><code>[■■■■■■■■□□] 80%</code>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-0c1609?style=for-the-badge&logo=mongodb&logoColor=2ae500&labelColor=222d1e" alt="MongoDB" />
-      <br><code>[■■■■■■■□□□] 70%</code>
+      <b>REACT</b><br>
+      <code>[■■■■■■■■□□]</code>
     </td>
   </tr>
 </table>
 
 <br/>
 
+<!-- STATS -->
 ### `> DEV_STATS.LOG`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0&ring=2ae500&fire=ffb4ab&currStreakLabel=dae6d0&sideNums=dae6d0&sideLabels=dae6d0&dates=dae6d0&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0&ring=16a34a&fire=16a34a&currStreakLabel=475569&sideNums=0f172a&sideLabels=475569&dates=475569&hide_border=false" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </div>
 
 <br/>
 
+<!-- PROJECTS -->
 ### `> PINNED_REPOS.DIR`
 
 <div align="center">
   <a href="https://github.com/im-shourya/im-shourya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0" alt="Project 1" />
   </a>
   <a href="https://github.com/im-shourya/im-shourya.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya.github.io&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya.github.io&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0" alt="Project 2" />
   </a>
 </div>
 
 <br/>
 
-### `> CONNECT.SH`
-
-<div align="center">
-  <a href="https://linkedin.com/in/im-shourya">
-    <img src="https://img.shields.io/badge/LINKEDIN-0c1609?style=for-the-badge&logo=linkedin&logoColor=2ae500&labelColor=222d1e" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/TWITTER-0c1609?style=for-the-badge&logo=x&logoColor=2ae500&labelColor=222d1e" alt="X/Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://shouryaparashar.in">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0c1609?style=for-the-badge&logo=vercel&logoColor=2ae500&labelColor=222d1e" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-0c1609?style=for-the-badge&logo=minutemailer&logoColor=2ae500&labelColor=222d1e" alt="Email" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <code>© 198X DEV_OS. ALL RIGHTS RESERVED.</code>
-</div>
+<!-- FOOTER / CONNECT -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <code>© 198X DEV_OS. ALL RIGHTS RESERVED.</code>
+    </td>
+    <td align="right">
+      <b>CONNECT:</b> &nbsp;
+      <a href="https://linkedin.com/in/im-shourya">LINKEDIN</a> &nbsp;|&nbsp;
+      <a href="https://x.com/">TWITTER</a> &nbsp;|&nbsp;
+      <a href="https://shouryaparashar.in">PORTFOLIO</a> &nbsp;|&nbsp;
+      <a href="mailto:your-email@example.com">EMAIL</a>
+    </td>
+  </tr>
+</table>
