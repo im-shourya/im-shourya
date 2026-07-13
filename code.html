@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Retro 8-bit GitHub Profile</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&amp;family=JetBrains+Mono:wght@400;700&amp;family=Courier+Prime:wght@400;700&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+  tailwind.config = {
+    darkMode: "class",
+    theme: {
+      extend: {
+        "colors": {
+                "on-surface-variant": "#baccb0",
+                "primary-container": "#39ff14",
+                "on-tertiary-fixed": "#2c1513",
+                "tertiary": "#fff8f7",
+                "on-secondary": "#053900",
+                "inverse-on-surface": "#293324",
+                "secondary": "#72de58",
+                "on-background": "#dae6d0",
+                "tertiary-container": "#ffd3ce",
+                "primary-fixed-dim": "#2ae500",
+                "inverse-primary": "#106e00",
+                "on-primary-fixed": "#022100",
+                "secondary-fixed": "#8dfc71",
+                "primary": "#efffe3",
+                "surface-container-lowest": "#071105",
+                "inverse-surface": "#dae6d0",
+                "tertiary-fixed-dim": "#e7bdb8",
+                "surface-bright": "#323c2d",
+                "outline-variant": "#3c4b35",
+                "on-primary-container": "#107100",
+                "surface-variant": "#2d3828",
+                "on-primary-fixed-variant": "#095300",
+                "on-secondary-fixed-variant": "#095300",
+                "surface-container-low": "#141e11",
+                "on-error-container": "#ffdad6",
+                "surface-container": "#182214",
+                "surface-container-highest": "#2d3828",
+                "on-tertiary-fixed-variant": "#5d3f3c",
+                "on-surface": "#dae6d0",
+                "on-secondary-container": "#043200",
+                "on-error": "#690005",
+                "secondary-fixed-dim": "#72de58",
+                "on-tertiary-container": "#7a5955",
+                "secondary-container": "#3aa625",
+                "background": "#0c1609",
+                "surface-tint": "#2ae500",
+                "surface-dim": "#0c1609",
+                "surface-container-high": "#222d1e",
+                "primary-fixed": "#79ff5b",
+                "on-secondary-fixed": "#022100",
+                "surface": "#0c1609",
+                "on-tertiary": "#442927",
+                "error-container": "#93000a",
+                "tertiary-fixed": "#ffdad6",
+                "outline": "#85967c",
+                "on-primary": "#053900",
+                "error": "#ffb4ab"
+        },
+        "borderRadius": {
+                "DEFAULT": "0.25rem",
+                "lg": "0.5rem",
+                "xl": "0.75rem",
+                "full": "9999px"
+        },
+        "spacing": {
+                "gutter": "24px",
+                "border-width": "2px",
+                "container-max": "880px",
+                "pixel-unit": "4px"
+        },
+        "fontFamily": {
+                "label-caps": [
+                        "Courier Prime"
+                ],
+                "body-sm": [
+                        "JetBrains Mono"
+                ],
+                "headline-md": [
+                        "Space Mono"
+                ],
+                "headline-lg": [
+                        "Space Mono"
+                ],
+                "body-lg": [
+                        "JetBrains Mono"
+                ]
+        },
+        "fontSize": {
+                "label-caps": [
+                        "12px",
+                        {
+                                "lineHeight": "16px",
+                                "letterSpacing": "0.1em",
+                                "fontWeight": "700"
+                        }
+                ],
+                "body-sm": [
+                        "13px",
+                        {
+                                "lineHeight": "20px",
+                                "letterSpacing": "0em",
+                                "fontWeight": "400"
+                        }
+                ],
+                "headline-md": [
+                        "20px",
+                        {
+                                "lineHeight": "28px",
+                                "letterSpacing": "0em",
+                                "fontWeight": "700"
+                        }
+                ],
+                "headline-lg": [
+                        "28px",
+                        {
+                                "lineHeight": "36px",
+                                "letterSpacing": "-0.02em",
+                                "fontWeight": "700"
+                        }
+                ],
+                "body-lg": [
+                        "15px",
+                        {
+                                "lineHeight": "24px",
+                                "letterSpacing": "0em",
+                                "fontWeight": "400"
+                        }
+                ]
+        }
+},
+    },
+  }
+</script>
+<style>
+        .scanlines {
+            position: relative;
+        }
+        .scanlines::before {
+            content: " ";
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: linear-gradient(rgba(255, 255, 255, 0) 50%, rgba(0, 0, 0, 0.03) 50%), linear-gradient(90deg, rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.005), rgba(0, 0, 0, 0.01));
+            z-index: 100;
+            background-size: 100% 4px, 4px 100%;
+            pointer-events: none;
+        }
+        .blinking-cursor::after {
+            content: '_';
+            animation: blink 1s step-end infinite;
+        }
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+        .retro-shadow {
+            box-shadow: 4px 4px 0px 0px #cbd5e1;
+        }
+        .retro-shadow-hover:hover {
+            box-shadow: 6px 6px 0px 0px #cbd5e1;
+            transform: translate(-2px, -2px);
+            transition: all 0.15s ease;
+        }
+        .retro-border {
+            border: 2px solid #94a3b8;
+        }
+        .dither-bg {
+            background-image: linear-gradient(45deg, #f1f5f9 25%, transparent 25%, transparent 75%, #f1f5f9 75%, #f1f5f9),
+                              linear-gradient(45deg, #f1f5f9 25%, transparent 25%, transparent 75%, #f1f5f9 75%, #f1f5f9);
+            background-size: 4px 4px;
+            background-position: 0 0, 2px 2px;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 font-body-lg scanlines min-h-screen pt-24 pb-12">
+<!-- Top Navigation -->
+<nav class="fixed top-0 w-full z-50 flex justify-between items-center px-8 py-4 bg-white border-b-border-width border-slate-300 shadow-sm">
+<div class="font-headline-md text-headline-md text-slate-900 tracking-tight uppercase">
+            DEV_TERMINAL_V1.1
+        </div>
+<div class="hidden md:flex gap-6">
+<a class="font-label-caps text-label-caps text-slate-900 border-b-2 border-slate-900 pb-1 uppercase" href="#">PROFILE</a>
+<a class="font-label-caps text-label-caps text-slate-500 hover:text-slate-900 transition-colors duration-150 uppercase pb-1" href="#tech">TECH</a>
+<a class="font-label-caps text-label-caps text-slate-500 hover:text-slate-900 transition-colors duration-150 uppercase pb-1" href="#stats">STATS</a>
+<a class="font-label-caps text-label-caps text-slate-500 hover:text-slate-900 transition-colors duration-150 uppercase pb-1" href="#projects">PROJECTS</a>
+</div>
+<div class="flex gap-4">
+<span class="material-symbols-outlined text-slate-600 cursor-pointer hover:text-[#16a34a] transition-colors">terminal</span>
+<span class="material-symbols-outlined text-slate-600 cursor-pointer hover:text-[#16a34a] transition-colors">code</span>
+</div>
+</nav>
+<!-- Main Container -->
+<main class="max-w-container-max mx-auto px-gutter space-y-12">
+<!-- Hero & Avatar -->
+<header class="flex flex-col md:flex-row items-center gap-10 bg-white p-10 retro-border retro-shadow">
+<div class="w-40 h-40 border-border-width border-slate-200 bg-slate-50 p-2 flex-shrink-0 dither-bg">
+<img alt="Pixel Art Developer Avatar" class="w-full h-full object-cover border border-slate-300 bg-white" src="https://lh3.googleusercontent.com/aida/AP1WRLtphV0jvuAjm3k3DC50JYQ0xWVLSfEgFtJV7gAlLmxK7vYcVoSSVF8Wno4ydzzaT5dZcZbEUe_hjaEZlCa9ypVsllTKpPtHGVHDQdzcZzEoYErolgnyYELcMlgt1Is_8xb_s79lLgYJApSWiI0ndLgUn43uK8YqPQzed4qxZjiGZZepgYT4Wb7vUADBezrJeB4jDnXxwdcapXb7bY5THT7Vqon4VutSd2QPYhlR7RVj63mPScqVh6Zc4hQ"/>
+</div>
+<div class="flex-1 space-y-4">
+<h1 class="font-headline-lg text-headline-lg text-slate-900 blinking-cursor">
+<span id="typewriter"></span>
+</h1>
+<p class="font-body-lg text-slate-600 leading-relaxed">
+                    &gt; INITIATING SEQUENCE...<br/>
+                    &gt; SYSTEM ARCHITECT ONLINE.<br/>
+                    &gt; READY TO BUILD DIGITAL WORLDS.
+                </p>
+</div>
+</header>
+<!-- About Me / Terminal -->
+<section class="bg-white border-border-width border-slate-200 p-8 font-body-sm text-slate-700 retro-shadow">
+<div class="flex items-center gap-3 mb-6 border-b border-slate-200 pb-3">
+<span class="material-symbols-outlined text-sm text-[#16a34a]">terminal</span>
+<span class="font-label-caps uppercase text-slate-500">user@system:~/about</span>
+</div>
+<div class="space-y-2">
+<p>&gt; A highly motivated full-stack explorer crafting elegant solutions in a chaotic digital landscape.</p>
+<p>&gt; Obsessed with performance, clean architecture, and retro aesthetics.</p>
+<p class="text-slate-900 mt-4 font-bold">user@system:~$ <span class="blinking-cursor text-[#16a34a]"></span></p>
+</div>
+</section>
+<!-- Tech Stack -->
+<section class="space-y-6" id="tech">
+<h2 class="font-headline-md text-headline-md text-slate-900 uppercase inline-block pb-2 border-b-2 border-slate-900">TECH_STACK.CFG</h2>
+<div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+<!-- Languages -->
+<div class="bg-white border-border-width border-slate-200 p-5 flex flex-col items-center justify-center gap-3 retro-shadow-hover cursor-pointer">
+<span class="font-label-caps text-slate-800 uppercase">JAVASCRIPT</span>
+<div class="w-full bg-slate-100 h-2 border border-slate-200">
+<div class="bg-[#16a34a] h-full w-[90%]"></div>
+</div>
+</div>
+<div class="bg-white border-border-width border-slate-200 p-5 flex flex-col items-center justify-center gap-3 retro-shadow-hover cursor-pointer">
+<span class="font-label-caps text-slate-800 uppercase">RUST</span>
+<div class="w-full bg-slate-100 h-2 border border-slate-200">
+<div class="bg-[#16a34a] h-full w-[60%]"></div>
+</div>
+</div>
+<div class="bg-white border-border-width border-slate-200 p-5 flex flex-col items-center justify-center gap-3 retro-shadow-hover cursor-pointer">
+<span class="font-label-caps text-slate-800 uppercase">PYTHON</span>
+<div class="w-full bg-slate-100 h-2 border border-slate-200">
+<div class="bg-[#16a34a] h-full w-[80%]"></div>
+</div>
+</div>
+<!-- Frameworks -->
+<div class="bg-white border-border-width border-slate-200 p-5 flex flex-col items-center justify-center gap-3 retro-shadow-hover cursor-pointer">
+<span class="font-label-caps text-slate-800 uppercase">REACT</span>
+<div class="w-full bg-slate-100 h-2 border border-slate-200">
+<div class="bg-[#16a34a] h-full w-[85%]"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- GitHub Stats Mockup -->
+<section class="grid grid-cols-1 md:grid-cols-2 gap-6" id="stats">
+<div class="bg-white border-border-width border-slate-200 p-6 retro-shadow">
+<h3 class="font-label-caps text-slate-900 uppercase border-b border-slate-200 pb-3 mb-5">DEV_STATS</h3>
+<ul class="font-body-sm space-y-3 text-slate-700">
+<li class="flex justify-between items-center"><span class="opacity-80">&gt; TOTAL_COMMITS</span> <span class="text-[#16a34a] font-bold text-base">9,001+</span></li>
+<li class="flex justify-between items-center"><span class="opacity-80">&gt; PR_MERGED</span> <span class="text-[#16a34a] font-bold text-base">404</span></li>
+<li class="flex justify-between items-center"><span class="opacity-80">&gt; ISSUES_CLOSED</span> <span class="text-[#16a34a] font-bold text-base">1337</span></li>
+</ul>
+</div>
+<div class="bg-slate-50 border-border-width border-slate-200 p-6 retro-shadow dither-bg flex items-center justify-center">
+<div class="bg-white px-8 py-6 border border-slate-300 text-center shadow-sm">
+<span class="font-headline-md text-slate-900">RANK: S</span>
+<p class="font-label-caps text-[#16a34a] font-bold mt-3 uppercase tracking-wider">Top 1% Contributor</p>
+</div>
+</div>
+</section>
+<!-- Projects -->
+<section class="space-y-6" id="projects">
+<h2 class="font-headline-md text-headline-md text-slate-900 uppercase inline-block pb-2 border-b-2 border-slate-900">PINNED_REPOS.DIR</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+<!-- Project 1 -->
+<div class="bg-white border-border-width border-slate-200 p-5 retro-shadow-hover cursor-pointer group flex flex-col h-full">
+<div class="flex items-center gap-2 mb-3 text-slate-800 group-hover:text-[#16a34a] transition-colors">
+<span class="material-symbols-outlined text-xl" style="font-variation-settings: 'FILL' 1;">folder</span>
+<h3 class="font-headline-md text-[15px] uppercase truncate">Retro_OS_Core</h3>
+</div>
+<p class="font-body-sm text-slate-600 flex-grow">A nostalgic operating system built for modern web browsers using Rust and WebAssembly.</p>
+<div class="flex gap-2 mt-5">
+<span class="bg-slate-50 text-slate-700 px-2 py-1 font-label-caps text-[11px] uppercase border border-slate-200">Rust</span>
+<span class="bg-slate-50 text-slate-700 px-2 py-1 font-label-caps text-[11px] uppercase border border-slate-200">WASM</span>
+</div>
+</div>
+<!-- Project 2 -->
+<div class="bg-white border-border-width border-slate-200 p-5 retro-shadow-hover cursor-pointer group flex flex-col h-full">
+<div class="flex items-center gap-2 mb-3 text-slate-800 group-hover:text-[#16a34a] transition-colors">
+<span class="material-symbols-outlined text-xl" style="font-variation-settings: 'FILL' 1;">folder</span>
+<h3 class="font-headline-md text-[15px] uppercase truncate">Neon_Grid_UI</h3>
+</div>
+<p class="font-body-sm text-slate-600 flex-grow">A brutalist React component library focused on high-contrast aesthetics.</p>
+<div class="flex gap-2 mt-5">
+<span class="bg-slate-50 text-slate-700 px-2 py-1 font-label-caps text-[11px] uppercase border border-slate-200">React</span>
+<span class="bg-slate-50 text-slate-700 px-2 py-1 font-label-caps text-[11px] uppercase border border-slate-200">Tailwind</span>
+</div>
+</div>
+<!-- Project 3 -->
+<div class="bg-white border-border-width border-slate-200 p-5 retro-shadow-hover cursor-pointer group flex flex-col h-full">
+<div class="flex items-center gap-2 mb-3 text-slate-800 group-hover:text-[#16a34a] transition-colors">
+<span class="material-symbols-outlined text-xl" style="font-variation-settings: 'FILL' 1;">folder</span>
+<h3 class="font-headline-md text-[15px] uppercase truncate">Crypto_Dash_8b</h3>
+</div>
+<p class="font-body-sm text-slate-600 flex-grow">Real-time market analytics dashboard rendered entirely in a terminal-like interface.</p>
+<div class="flex gap-2 mt-5">
+<span class="bg-slate-50 text-slate-700 px-2 py-1 font-label-caps text-[11px] uppercase border border-slate-200">Python</span>
+<span class="bg-slate-50 text-slate-700 px-2 py-1 font-label-caps text-[11px] uppercase border border-slate-200">Vue</span>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="max-w-container-max mx-auto py-8 px-gutter flex flex-col md:flex-row justify-between items-center gap-6 mt-16 border-t border-slate-200">
+<div class="font-label-caps text-label-caps text-slate-500 uppercase">
+            ©198X DEV_OS. ALL RIGHTS RESERVED.
+        </div>
+<!-- Social/Connect -->
+<div class="flex gap-4 items-center">
+<span class="font-label-caps text-slate-400 uppercase mr-2">CONNECT:</span>
+<a class="material-symbols-outlined text-slate-600 hover:text-[#16a34a] transition-colors cursor-pointer text-xl" href="#">link</a>
+<a class="material-symbols-outlined text-slate-600 hover:text-[#16a34a] transition-colors cursor-pointer text-xl" href="#">mail</a>
+<a class="material-symbols-outlined text-slate-600 hover:text-[#16a34a] transition-colors cursor-pointer text-xl" href="#">share</a>
+</div>
+<div class="flex gap-5 font-label-caps text-label-caps text-slate-500">
+<a class="hover:text-[#16a34a] transition-colors cursor-pointer uppercase" href="#">SOURCE_CODE</a>
+<a class="hover:text-[#16a34a] transition-colors cursor-pointer uppercase" href="#">MANUAL</a>
+<a class="hover:text-[#16a34a] transition-colors cursor-pointer uppercase" href="#">SUPPORT</a>
+</div>
+</footer>
+<script>
+        // Simple Typewriter Effect
+        const textArray = ['HI, I AM Shourya Parashar', 'SYSTEM ARCHITECT', 'FULL-STACK EXPLORER'];
+        let textIndex = 0;
+        let charIndex = 0;
+        let isDeleting = false;
+        const typeTarget = document.getElementById('typewriter');
+        
+        function type() {
+            const currentText = textArray[textIndex];
+            
+            if (isDeleting) {
+                typeTarget.innerText = currentText.substring(0, charIndex - 1);
+                charIndex--;
+            } else {
+                typeTarget.innerText = currentText.substring(0, charIndex + 1);
+                charIndex++;
+            }
+            
+            let typeSpeed = isDeleting ? 40 : 80;
+            
+            if (!isDeleting && charIndex === currentText.length) {
+                typeSpeed = 2500; // Pause at end
+                isDeleting = true;
+            } else if (isDeleting && charIndex === 0) {
+                isDeleting = false;
+                textIndex = (textIndex + 1) % textArray.length;
+                typeSpeed = 600; // Pause before typing next
+            }
+            
+            setTimeout(type, typeSpeed);
+        }
+        
+        // Start typing effect
+        setTimeout(type, 1000);
+    </script>
+</body></html>
