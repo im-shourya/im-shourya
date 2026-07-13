@@ -11,7 +11,7 @@
       <img src="https://lh3.googleusercontent.com/aida/AP1WRLtphV0jvuAjm3k3DC50JYQ0xWVLSfEgFtJV7gAlLmxK7vYcVoSSVF8Wno4ydzzaT5dZcZbEUe_hjaEZlCa9ypVsllTKpPtHGVHDQdzcZzEoYErolgnyYELcMlgt1Is_8xb_s79lLgYJApSWiI0ndLgUn43uK8YqPQzed4qxZjiGZZepgYT4Wb7vUADBezrJeB4jDnXxwdcapXb7bY5THT7Vqon4VutSd2QPYhlR7RVj63mPScqVh6Zc4hQ" width="180" alt="Pixel Avatar" />
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=2ae500&background=0c160900&center=false&vCenter=true&width=600&lines=HI%2C+I+AM+Shourya+Parashar;SYSTEM+ARCHITECT;FULL-STACK+EXPLORER" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=0f172a&background=ffffff00&center=false&vCenter=true&width=600&lines=HI%2C+I+AM+Shourya+Parashar;SYSTEM+ARCHITECT;FULL-STACK+EXPLORER" alt="Typing SVG" />
       <br><br>
       <code>
         &gt; INITIATING SEQUENCE...<br>
@@ -75,10 +75,10 @@ user@system:~$ _
 ### `> DEV_STATS.LOG`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0&ring=2ae500&fire=ffb4ab&currStreakLabel=dae6d0&sideNums=dae6d0&sideLabels=dae6d0&dates=dae6d0&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0&ring=16a34a&fire=16a34a&currStreakLabel=475569&sideNums=0f172a&sideLabels=475569&dates=475569&hide_border=false" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </div>
 
 <br/>
@@ -88,10 +88,10 @@ user@system:~$ _
 
 <div align="center">
   <a href="https://github.com/im-shourya/im-shourya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0" alt="Project 1" />
   </a>
   <a href="https://github.com/im-shourya/im-shourya.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya.github.io&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya.github.io&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0" alt="Project 2" />
   </a>
 </div>
 
@@ -102,19 +102,19 @@ user@system:~$ _
 
 <div align="center">
   <a href="https://linkedin.com/in/im-shourya">
-    <img src="https://img.shields.io/badge/LINKEDIN-0c1609?style=for-the-badge&logo=linkedin&logoColor=2ae500&labelColor=222d1e" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=16a34a&labelColor=f1f5f9" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/TWITTER-0c1609?style=for-the-badge&logo=x&logoColor=2ae500&labelColor=222d1e" alt="X/Twitter" />
+    <img src="https://img.shields.io/badge/TWITTER-ffffff?style=for-the-badge&logo=x&logoColor=16a34a&labelColor=f1f5f9" alt="X/Twitter" />
   </a>
   &nbsp;
   <a href="https://shouryaparashar.in">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0c1609?style=for-the-badge&logo=vercel&logoColor=2ae500&labelColor=222d1e" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=for-the-badge&logo=vercel&logoColor=16a34a&labelColor=f1f5f9" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-0c1609?style=for-the-badge&logo=minutemailer&logoColor=2ae500&labelColor=222d1e" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge&logo=minutemailer&logoColor=16a34a&labelColor=f1f5f9" alt="Email" />
   </a>
 </div>
 
