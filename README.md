@@ -11,7 +11,7 @@
       <img src="https://lh3.googleusercontent.com/aida/AP1WRLtphV0jvuAjm3k3DC50JYQ0xWVLSfEgFtJV7gAlLmxK7vYcVoSSVF8Wno4ydzzaT5dZcZbEUe_hjaEZlCa9ypVsllTKpPtHGVHDQdzcZzEoYErolgnyYELcMlgt1Is_8xb_s79lLgYJApSWiI0ndLgUn43uK8YqPQzed4qxZjiGZZepgYT4Wb7vUADBezrJeB4jDnXxwdcapXb7bY5THT7Vqon4VutSd2QPYhlR7RVj63mPScqVh6Zc4hQ" width="180" alt="Pixel Avatar" />
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=0f172a&background=ffffff00&center=false&vCenter=true&width=600&lines=HI%2C+I+AM+Shourya+Parashar;SYSTEM+ARCHITECT;FULL-STACK+EXPLORER" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=2ae500&background=0c160900&center=false&vCenter=true&width=600&lines=HI%2C+I+AM+Shourya+Parashar;SYSTEM+ARCHITECT;FULL-STACK+EXPLORER" alt="Typing SVG" />
       <br><br>
       <code>
         &gt; INITIATING SEQUENCE...<br>
@@ -38,44 +38,36 @@ user@system:~$ _
 <!-- TECH STACK -->
 ### `> TECH_STACK.CFG`
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=16a34a&labelColor=f1f5f9" alt="C++" />
-      <br><code>[■■■■■■■■■□]</code>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=16a34a&labelColor=f1f5f9" alt="Python" />
-      <br><code>[■■■■■■■■□□]</code>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=java&logoColor=16a34a&labelColor=f1f5f9" alt="Java" />
-      <br><code>[■■■■■■■■□□]</code>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=16a34a&labelColor=f1f5f9" alt="TypeScript" />
-      <br><code>[■■■■■■■■■□]</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=16a34a&labelColor=f1f5f9" alt="React" />
-      <br><code>[■■■■■■■■■□]</code>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=16a34a&labelColor=f1f5f9" alt="Next.js" />
-      <br><code>[■■■■■■■■□□]</code>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=16a34a&labelColor=f1f5f9" alt="Node.js" />
-      <br><code>[■■■■■■■■□□]</code>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=16a34a&labelColor=f1f5f9" alt="MongoDB" />
-      <br><code>[■■■■■■■□□□]</code>
-    </td>
-  </tr>
-</table>
+#### `> LANGUAGES`
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+</p>
+
+#### `> FRAMEWORKS & LIBRARIES`
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+</p>
+
+#### `> TOOLS & DATABASES`
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+</p>
 
 <br/>
 
@@ -83,10 +75,10 @@ user@system:~$ _
 ### `> DEV_STATS.LOG`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0&ring=16a34a&fire=16a34a&currStreakLabel=475569&sideNums=0f172a&sideLabels=475569&dates=475569&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0&ring=2ae500&fire=ffb4ab&currStreakLabel=dae6d0&sideNums=dae6d0&sideLabels=dae6d0&dates=dae6d0&hide_border=false" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </div>
 
 <br/>
@@ -96,10 +88,10 @@ user@system:~$ _
 
 <div align="center">
   <a href="https://github.com/im-shourya/im-shourya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0" alt="Project 1" />
   </a>
   <a href="https://github.com/im-shourya/im-shourya.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya.github.io&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=16a34a&border_color=cbd5e1&border_radius=0" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya.github.io&bg_color=0c1609&title_color=2ae500&text_color=dae6d0&icon_color=2ae500&border_color=85967c&border_radius=0" alt="Project 2" />
   </a>
 </div>
 
@@ -110,19 +102,19 @@ user@system:~$ _
 
 <div align="center">
   <a href="https://linkedin.com/in/im-shourya">
-    <img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=16a34a&labelColor=f1f5f9" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0c1609?style=for-the-badge&logo=linkedin&logoColor=2ae500&labelColor=222d1e" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/TWITTER-ffffff?style=for-the-badge&logo=x&logoColor=16a34a&labelColor=f1f5f9" alt="X/Twitter" />
+    <img src="https://img.shields.io/badge/TWITTER-0c1609?style=for-the-badge&logo=x&logoColor=2ae500&labelColor=222d1e" alt="X/Twitter" />
   </a>
   &nbsp;
   <a href="https://shouryaparashar.in">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=for-the-badge&logo=vercel&logoColor=16a34a&labelColor=f1f5f9" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0c1609?style=for-the-badge&logo=vercel&logoColor=2ae500&labelColor=222d1e" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge&logo=minutemailer&logoColor=16a34a&labelColor=f1f5f9" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-0c1609?style=for-the-badge&logo=minutemailer&logoColor=2ae500&labelColor=222d1e" alt="Email" />
   </a>
 </div>
 
