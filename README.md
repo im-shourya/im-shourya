@@ -1,99 +1,92 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=36&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Shourya;Full-Stack+Developer;CSE+Undergrad+%7C+India;Passionate+Builder+%26+Problem+Solver" alt="Typing SVG" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/im-shourya">
+    <img src="./assets/reach-linkedin.svg" width="260" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/im-shourya">
+    <img src="./assets/reach-github.svg" width="260" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://shouryaparashar.in">
+    <img src="./assets/reach-portfolio.svg" width="260" alt="Portfolio" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###  Languages
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+</p>
+
+###  Frameworks & Libraries
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+</p>
+
+###  Tools & Databases
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Statistics
+
 <div align="center">
+  <a href="https://github.com/im-shourya">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-shourya&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=im-shourya&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=im-shourya&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=im-shourya&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-shourya&theme=2077" height="180em" />
+  </a>
+  <br><br>
 
-<br><br>
+![](https://github-readme-stats.vercel.app/api?username=im-shourya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    
+</div>
 
-# **Shourya Parashar.**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Pro Developer. Pro Performance.
+### Activity Graph
 
-<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=im-shourya&theme=react-dark" width="100%" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2000&color=1d1d1f&center=true&vCenter=true&width=600&lines=Crafting+digital+experiences.;Precision+in+every+pixel.;Performance+by+default." alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p style="color: #86868b;">Designing software that just works. Beautifully.</p>
-
-<br>
-
-<a href="https://linkedin.com/in/im-shourya">
-  <img src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://shouryaparashar.in">
-  <img src="https://img.shields.io/badge/Portfolio-1d1d1f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-<br><br><br>
-
-<hr style="border-top: 1px solid #d2d2d7; width: 50%;">
-
-<br><br>
-
-## **M1-Class Tech Stack.**
-
-<p style="color: #86868b;">The power to build anything.</p>
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-1d1d1f?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="28" />
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-1d1d1f?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28" />
-&nbsp;
-<img src="https://img.shields.io/badge/Python-1d1d1f?style=flat-square&logo=python&logoColor=white" alt="Python" height="28" />
-&nbsp;
-<img src="https://img.shields.io/badge/C++-1d1d1f?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="28" />
-<br><br>
-<img src="https://img.shields.io/badge/React-1d1d1f?style=flat-square&logo=react&logoColor=white" alt="React" height="28" />
-&nbsp;
-<img src="https://img.shields.io/badge/Next.js-1d1d1f?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" height="28" />
-&nbsp;
-<img src="https://img.shields.io/badge/Node.js-1d1d1f?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="28" />
-&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-1d1d1f?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="28" />
-
-<br><br><br>
-
-<hr style="border-top: 1px solid #d2d2d7; width: 50%;">
-
-<br><br>
-
-## **Featured Innovations.**
-
-<p style="color: #86868b;">Built for the future.</p>
-
-<br>
-
-<a href="https://github.com/im-shourya/im-shourya">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya&bg_color=f5f5f7&title_color=1d1d1f&text_color=86868b&icon_color=1d1d1f&border_color=d2d2d7&border_radius=12" alt="Project 1" />
-</a>
-<br><br>
-<a href="https://github.com/im-shourya/im-shourya.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-shourya&repo=im-shourya.github.io&bg_color=f5f5f7&title_color=1d1d1f&text_color=86868b&icon_color=1d1d1f&border_color=d2d2d7&border_radius=12" alt="Project 2" />
-</a>
-
-<br><br><br>
-
-<hr style="border-top: 1px solid #d2d2d7; width: 50%;">
-
-<br><br>
-
-## **Metrics.**
-
-<p style="color: #86868b;">Power efficient.</p>
-
-<br>
-
-<a href="https://github.com/im-shourya">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-shourya&bg_color=f5f5f7&title_color=1d1d1f&text_color=86868b&icon_color=1d1d1f&border_color=d2d2d7&border_radius=12&hide_border=false" alt="GitHub Stats" />
-</a>
-<br><br>
-<a href="https://github.com/im-shourya">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&bg_color=f5f5f7&title_color=1d1d1f&text_color=86868b&icon_color=1d1d1f&border_color=d2d2d7&border_radius=12&layout=compact" alt="Top Langs" />
-</a>
-
-<br><br><br>
-
-<p style="color: #86868b;"><i>Designed in California. Built in India.</i></p>
-
-<br><br>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=14&pause=2000&color=00D4FF&center=true&vCenter=true&width=650&lines=First+solve+the+problem.+Then+write+the+code.;Build+real.+Ship+fast.+Impact+first." />
 </div>
