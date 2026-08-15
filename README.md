@@ -8,7 +8,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <p align="center">
   <a href="https://linkedin.com/in/im-shourya">
     <img src="./assets/reach-linkedin.svg" width="260" alt="LinkedIn" />
