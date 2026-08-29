@@ -1,91 +1,92 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=36&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Shourya;Full-Stack+Developer;CSE+Undergrad+%7C+India;Passionate+Builder+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=32&pause=1000&color=F15BB5&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Shourya;Full-Stack+Developer;CSE+Undergrad+%7C+India;Passionate+Builder+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/im-shourya">
-    <img src="./assets/reach-linkedin.svg" width="260" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=1A0B2E" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/im-shourya">
-    <img src="./assets/reach-github.svg" width="260" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=1A0B2E" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://shouryaparashar.in">
-    <img src="./assets/reach-portfolio.svg" width="260" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&color=1A0B2E" alt="Portfolio" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-###  Languages
-
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-###  Frameworks & Libraries
+<h3 align="center">🪐 Tech Stack</h3>
 
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,html,css&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,supabase&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark" />
+  </a>
 </p>
 
-###  Tools & Databases
-
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+<h3 align="center">🏆 GitHub Trophies</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=im-shourya&theme=synthwave&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies" />
+  </a>
+</p>
 
-### Statistics
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<div align="center">
+<h3 align="center">🚀 GitHub Statistics</h3>
+
+<p align="center">
   <a href="https://github.com/im-shourya">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-shourya&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=im-shourya&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=im-shourya&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=im-shourya&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-shourya&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-shourya&theme=synthwave" width="800em" />
   </a>
   <br><br>
+  <a href="https://github.com/im-shourya">
+    <img src="https://github-readme-stats.vercel.app/api?username=im-shourya&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="400em" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&theme=synthwave&hide_border=true" width="400em" />
+  </a>
+  <br><br>
+  <a href="https://github.com/im-shourya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400em" />
+  </a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=im-shourya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=im-shourya&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-    
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">🌌 Activity Graph</h3>
 
-### Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=im-shourya&theme=synthwave&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=im-shourya&theme=react-dark" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=14&pause=2000&color=00D4FF&center=true&vCenter=true&width=650&lines=First+solve+the+problem.+Then+write+the+code.;Build+real.+Ship+fast.+Impact+first." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&pause=2000&color=00D4FF&center=true&vCenter=true&width=650&lines=First+solve+the+problem.+Then+write+the+code.;Build+real.+Ship+fast.+Impact+first." />
 </div>
