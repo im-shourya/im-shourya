@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                         HEADER                            -->
+<!--                           HEADER                          -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -12,36 +12,44 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1200&color=8B7CFF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shourya+Parashar;Full-Stack+Developer;CSE+Undergraduate+%7C+India;Builder+%7C+Problem+Solver+%7C+Learner"
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1200&color=7C83FF&center=true&vCenter=true&width=900&lines=Shourya+Parashar;Full-Stack+Developer;Computer+Science+Undergraduate;Builder+%7C+Problem+Solver+%7C+Learner"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <b>
-    Building modern digital products with clean engineering,
-    thoughtful design and real-world impact.
-  </b>
+  <img
+    src="https://img.shields.io/badge/FULL--STACK-7C83FF?style=flat-square&labelColor=0D1117"
+    alt="Full Stack"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/OPEN_SOURCE-58A6FF?style=flat-square&labelColor=0D1117"
+    alt="Open Source"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/INDIA-79C0FF?style=flat-square&labelColor=0D1117"
+    alt="India"
+  />
 </p>
 
 <p align="center">
   <a href="https://shouryaparashar.in">
     <img
-      src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-7C83FF?style=for-the-badge&logoColor=white"
       alt="Portfolio"
     />
   </a>
-  &nbsp;
   <a href="https://github.com/im-shourya">
     <img
-      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/im-shourya">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
@@ -49,109 +57,21 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=im-shourya&style=flat-square&color=6C63FF&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=im-shourya&style=flat-square&color=7C83FF&label=PROFILE+VIEWS"
     alt="Profile Views"
   />
 </p>
 
-<br>
-
 ---
 
 <!-- ========================================================= -->
-<!--                         PROFILE                           -->
+<!--                        TECHNOLOGY                          -->
 <!-- ========================================================= -->
 
-<h2 align="center">👨‍💻 Profile</h2>
+<h2 align="center">Technology</h2>
 
 <p align="center">
-  <b>Computer Science Student · Full-Stack Developer · Builder</b>
-</p>
-
-<p align="center">
-  I'm a Computer Science undergraduate from India passionate about
-  building useful software and learning how technology can solve
-  real-world problems.
-</p>
-
-<p align="center">
-  I enjoy working across the stack — from crafting responsive
-  interfaces and APIs to databases, deployment and system architecture.
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-🎓
-
-<b>Education</b>
-
-Computer Science  
-& Engineering
-
-</td>
-
-<td align="center" width="25%">
-
-💻
-
-<b>Focus</b>
-
-Full-Stack  
-Development
-
-</td>
-
-<td align="center" width="25%">
-
-🚀
-
-<b>Building</b>
-
-Products &  
-Developer Tools
-
-</td>
-
-<td align="center" width="25%">
-
-🌱
-
-<b>Learning</b>
-
-Systems · Cloud  
-· Open Source
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <i>
-    "Build things that are useful. Keep the engineering simple.
-    Learn from every iteration."
-  </i>
-</p>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-<!--                       TECHNOLOGY                          -->
-<!-- ========================================================= -->
-
-<h2 align="center">🛠️ Technology</h2>
-
-<p align="center">
-  <b>Languages</b>
+  <sub>Languages</sub>
 </p>
 
 <p align="center">
@@ -159,7 +79,7 @@ Systems · Cloud
 </p>
 
 <p align="center">
-  <b>Frontend</b>
+  <sub>Frontend</sub>
 </p>
 
 <p align="center">
@@ -167,7 +87,7 @@ Systems · Cloud
 </p>
 
 <p align="center">
-  <b>Backend & Database</b>
+  <sub>Backend and Database</sub>
 </p>
 
 <p align="center">
@@ -175,7 +95,7 @@ Systems · Cloud
 </p>
 
 <p align="center">
-  <b>Tools, Cloud & DevOps</b>
+  <sub>Tools and Infrastructure</sub>
 </p>
 
 <p align="center">
@@ -185,25 +105,27 @@ Systems · Cloud
 <br>
 
 <p align="center">
-  <code>React</code>
-  <code>Next.js</code>
-  <code>TypeScript</code>
-  <code>Node.js</code>
-  <code>MongoDB</code>
-  <code>PostgreSQL</code>
-  <code>Docker</code>
-  <code>AWS</code>
+  <img
+    src="https://img.shields.io/badge/Frontend-7C83FF?style=flat-square&labelColor=0D1117"
+  />
+  <img
+    src="https://img.shields.io/badge/Backend-58A6FF?style=flat-square&labelColor=0D1117"
+  />
+  <img
+    src="https://img.shields.io/badge/Database-79C0FF?style=flat-square&labelColor=0D1117"
+  />
+  <img
+    src="https://img.shields.io/badge/Cloud-BC8CFF?style=flat-square&labelColor=0D1117"
+  />
 </p>
-
-<br>
 
 ---
 
 <!-- ========================================================= -->
-<!--                         STATS                             -->
+<!--                          STATS                             -->
 <!-- ========================================================= -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
   <img
@@ -213,17 +135,15 @@ Systems · Cloud
   />
 </p>
 
-<br>
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=im-shourya&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=im-shourya&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=7C83FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true"
     width="48%"
     alt="GitHub Statistics"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=7C83FF&text_color=C9D1D9&langs_count=8"
     width="42%"
     alt="Top Languages"
   />
@@ -233,7 +153,7 @@ Systems · Cloud
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=im-shourya&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com?user=im-shourya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C83FF&fire=58A6FF&currStreakLabel=7C83FF"
     width="70%"
     alt="GitHub Contribution Streak"
   />
@@ -243,13 +163,11 @@ Systems · Cloud
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=im-shourya&theme=github-compact&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=im-shourya&bg_color=0D1117&color=C9D1D9&line=7C83FF&point=58A6FF&area_color=7C83FF&area=true&hide_border=true"
     width="100%"
     alt="GitHub Contribution Activity"
   />
 </p>
-
-<br>
 
 ---
 
@@ -257,26 +175,29 @@ Systems · Cloud
 <!--                         TROPHIES                           -->
 <!-- ========================================================= -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=im-shourya&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=10&column=6"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=im-shourya&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <br>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=15&pause=2500&color=6C63FF&center=true&vCenter=true&width=700&lines=Code+%E2%80%A2+Create+%E2%80%A2+Contribute+%E2%80%A2+Repeat."
-    alt="Footer"
+    src="https://img.shields.io/badge/BUILD-0D1117?style=for-the-badge&labelColor=7C83FF"
+  />
+  <img
+    src="https://img.shields.io/badge/LEARN-0D1117?style=for-the-badge&labelColor=58A6FF"
+  />
+  <img
+    src="https://img.shields.io/badge/SHIP-0D1117?style=for-the-badge&labelColor=BC8CFF"
   />
 </p>
 
 <p align="center">
-  <sub>© 2026 Shourya Parashar · Built with curiosity, code & ☕</sub>
+  <sub>Shourya Parashar · Full-Stack Developer</sub>
 </p>
