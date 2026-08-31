@@ -169,6 +169,22 @@
   />
 </p>
 
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=im-shourya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C83FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C83FF&text_color=C9D1D9&langs_count=8"
+    width="42%"
+    alt="Top Languages"
+  />
+</p>
+
 ---
 
 <!-- ========================================================= -->
