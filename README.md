@@ -1,6 +1,7 @@
 <!-- ========================================================= -->
 <!--                           HEADER                          -->
 <!-- ========================================================= -->
+<meta name="google-site-verification" content="w3Fs8HF7z8xi9-JjyMHlxrPI9AZjyzS262biAm2VGpM" />
 
 <p align="center">
   <img
