@@ -1,7 +1,6 @@
 <!-- ========================================================= -->
 <!--                           HEADER                          -->
 <!-- ========================================================= -->
-<meta name="google-site-verification" content="w3Fs8HF7z8xi9-JjyMHlxrPI9AZjyzS262biAm2VGpM" />
 
 <p align="center">
   <img
@@ -135,7 +134,7 @@
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=im-shourya&langs_count=5&theme=midnight-purple"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=im-shourya&langs_count=5&theme=github_dark&bg_color=0D1117&title_color=7C83FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&hide_border=true&show_icons=true"
     width="36%"
     alt="Top Languages"
   />
