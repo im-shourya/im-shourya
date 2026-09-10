@@ -152,13 +152,13 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=im-shourya&bg_color=0D1117&color=C9D1D9&line=7C83FF&point=58A6FF&area_color=7C83FF&area=true&hide_border=true"
     width="100%"
     alt="GitHub Contribution Activity"
   />
-</p>
+</p> -->
 
 
 
@@ -170,11 +170,9 @@
 
 <h2 align="center">GitHub Trophies</h2>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=im-shourya&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-    alt="GitHub Trophies"
-  />
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=im-shourya&theme=aura" alt="im-shourya" />
+  </a> 
 </p>
 
 <br>
