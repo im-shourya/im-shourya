@@ -131,19 +131,19 @@
 <p align="flex">
   <img
     src="https://github-stats-extended.vercel.app/api?username=im-shourya&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=7C83FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true"
-    width="48%"
+    width="58%"
     alt="GitHub Statistics"
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs?username=im-shourya&langs_count=5&theme=midnight-purple"
-    width="42%"
+    width="36%"
     alt="Top Languages"
   />
 </p>
 
 <br>
 
-<p>
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=im-shourya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C83FF&fire=58A6FF&currStreakLabel=7C83FF"
     width="70%"
