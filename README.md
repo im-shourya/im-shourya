@@ -128,23 +128,14 @@
 
 <h2 align="center">GitHub Statistics</h2>
 
-<p align="center">
+<p align="flex">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-shourya&theme=github_dark"
-    width="95%"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=im-shourya&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=7C83FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=im-shourya&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=7C83FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true"
     width="48%"
     alt="GitHub Statistics"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=7C83FF&text_color=C9D1D9&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=im-shourya&langs_count=5&theme=midnight-purple"
     width="42%"
     alt="Top Languages"
   />
@@ -152,7 +143,7 @@
 
 <br>
 
-<p align="center">
+<p>
   <img
     src="https://streak-stats.demolab.com?user=im-shourya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C83FF&fire=58A6FF&currStreakLabel=7C83FF"
     width="70%"
@@ -171,20 +162,6 @@
 </p>
 
 
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=im-shourya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C83FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
-    width="48%"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shourya&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C83FF&text_color=C9D1D9&langs_count=8"
-    width="42%"
-    alt="Top Languages"
-  />
-</p>
 
 ---
 
