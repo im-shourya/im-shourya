@@ -152,6 +152,10 @@
 
 <br>
 
+
+![im-shourya's github activity graph](https://github-readme-activity-graph-nine-delta.vercel.app/graph?username=im-shourya&bg_color=0D1117&color=C9D1D9&line=7C83FF&point=ffffff&area=true&hide_border=true)
+
+
 <!-- <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=im-shourya&bg_color=0D1117&color=C9D1D9&line=7C83FF&point=58A6FF&area_color=7C83FF&area=true&hide_border=true"
