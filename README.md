@@ -71,35 +71,26 @@
 <h2 align="center">Technology</h2>
 
 <p align="center">
-  <sub>Languages</sub>
+  <nobr><sub><b>Languages</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub><b>Frontend</b><br></sub></nobr>
+  <br>
+  <nobr>
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css&theme=dark&perline=3" align="top" alt="Languages" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark&perline=3" align="top" alt="Frontend" />
+  </nobr>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css&theme=dark" />
-</p>
+<br>
 
 <p align="center">
-  <sub>Frontend</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark" />
-</p>
-
-<p align="center">
-  <sub>Backend and Database</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark" />
-</p>
-
-<p align="center">
-  <sub>Tools and Infrastructure</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode&theme=dark" />
+  <nobr><sub><b>Backend and Database</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub><b>Tools and Infrastructure</b></sub>
+  <br></nobr>
+  <br>
+  <nobr>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark&perline=3" align="top" alt="Backend and Database" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&theme=dark&perline=3" align="top" alt="Tools and Infrastructure" />
+  </nobr>
 </p>
 
 <br>
