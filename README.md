@@ -70,28 +70,37 @@
 
 <h2 align="center">Technology</h2>
 
-<p align="center">
-  <nobr><sub><b>Languages</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub><b>Frontend</b><br></sub></nobr>
+<div align="center">
+  <div>
+    <nobr>
+      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=16&duration=1&pause=100000&color=C9D1D9&center=true&vCenter=true&width=350&height=30&lines=Languages" alt="Languages" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=16&duration=1&pause=100000&color=C9D1D9&center=true&vCenter=true&width=200&height=30&lines=Frontend" alt="Frontend" />
+    </nobr>
+  </div>
+  <div>
+    <nobr>
+      <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css&theme=dark" align="top" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark" align="top" />
+    </nobr>
+  </div>
   <br>
-  <nobr>
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css&theme=dark&perline=3" align="top" alt="Languages" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark&perline=3" align="top" alt="Frontend" />
-  </nobr>
-</p>
-
-<br>
-
-<p align="center">
-  <nobr><sub><b>Backend and Database</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub><b>Tools and Infrastructure</b></sub>
-  <br></nobr>
-  <br>
-  <nobr>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark&perline=3" align="top" alt="Backend and Database" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&theme=dark&perline=3" align="top" alt="Tools and Infrastructure" />
-  </nobr>
-</p>
+  <div>
+    <nobr>
+      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=16&duration=1&pause=100000&color=C9D1D9&center=true&vCenter=true&width=250&height=30&lines=Backend+and+Database" alt="Backend and Database" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=16&duration=1&pause=100000&color=C9D1D9&center=true&vCenter=true&width=300&height=30&lines=Tools+and+Infrastructure" alt="Tools and Infrastructure" />
+    </nobr>
+  </div>
+  <div>
+    <nobr>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark" align="top" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&theme=dark" align="top" />
+    </nobr>
+  </div>
+</div>
 
 <br>
 
